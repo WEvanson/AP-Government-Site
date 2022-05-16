@@ -1,3 +1,7 @@
+### Net Neutrality
+
+Net neutrality is the concept that internet service providers (ISPs) should provide access to all content on the internet, regardless of the source, and without favoring or blocking particular sources, products, or websites.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/WEvanson/AP-Government-Site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
