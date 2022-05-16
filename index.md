@@ -11,3 +11,9 @@ Many movements use social media platforms to coordinate and make their voices he
 Secondly, net neutrality prevents ISPs from slowing down, speeding up, or charging higher fees for certain content. Without net neutrality, companies could charge extra fees for using services not provided by the ISP, thereby removing an element of free choice from the internet. The additional charges could limit access to platforms promoting certain ideals, and thus reduce the ability for someone's voice to be heard.
 
 Finally, net neutrality promotes competition by providing an equal field for new companies. Without the level playing field net neutrality provides, large companies could block other companies from acheiving any sort of user base. As a result of the monopoly on their area of platforms, they could, discrimate against content determintal to their own interests.
+
+## Opponents
+
+Opponents suggest net neutrality is unnecessay because the internet developed mostly without it, it creates burdensome regulation to govern the internet, and it reduces investment in internet services.
+
+Many large internet-based companies were started and became successful without net neutrality regulations. For example, Google was founded in 1998, and it became one of the largest companies in the world. Many of those companies are beneficial to America. As a result, opponents argue that net neutrality is unneeded because many positive outcomes came from the period before net neutrality.
