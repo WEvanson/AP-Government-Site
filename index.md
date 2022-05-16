@@ -4,12 +4,8 @@ Net neutrality is the concept that internet service providers (ISPs) should prov
 
 ## Proponents
 
-Proponents suggest net neutrality is important for innovation and free speech. They claim internet platforms provide to private citizens the most powerful mechansim for making their voice heard. Many movements today use social media platforms hosted on the internet to coordinate and make their voices heard. They claim that without net neturality, these platforms could fail because the platforms depend upon the inability for companies or governments to lawfully censor their messages.
+Proponents suggest that net nuetrality is important because it preserves free speech by prohibiting ISPs from blocking content, it prevents ISPs from discrimanating against certain content, and it provides an equal playing field for new companies.
 
-They believe that while you may need to pay to gain access to the internet, the internet provider should not get to shape what you access on the internet, or who has access to you on the internet. The users could make their own choices about what services they wish to use, without government influence.
+Many movements use social media platforms to coordinate and make their voices heard. Without without net neutrality, ISPs could block movements which support ideas which could be determintal to their own interests, whether social or political. Proponents thus support net neutrality on the basis of the internet being a public avenue of speech, of which censorship would violate free speech.
 
-Proponents believe that without net neutrality, free speech is in danger. Without net neutrality, companies could block access to content posing a threat to their interests, whether financial or political.
-
-## Opponents
-
-Opponents suggest net neutrality is unneccessay because the internet did 
+Secondly, net neutrality prevents ISPs from slowing down, speeding up, or charging higher fees for certain content. Without net neutrality, companies could charge extra fees for using services not provided by the ISP, thereby removing an element of free choice from the internet. The additional charges could limit access to platforms promoting certain ideals, and thus reduce the ability for someone's voice to be heard.
