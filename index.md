@@ -1,41 +1,15 @@
-### Net Neutrality
+# Net Neutrality
 
-Net neutrality is the concept that internet service providers (ISPs) should provide access to all content on the internet, regardless of the source, and without favoring or blocking particular sources, products, or websites.
+Net neutrality is the concept that internet service providers (ISPs) should provide access to all content on the internet regardless of the source without favoring or blocking particular sources, products, or websites.
 
-## Welcome to GitHub Pages
+## Proponents
 
-You can use the [editor on GitHub](https://github.com/WEvanson/AP-Government-Site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Proponents suggest net neutrality is important for innovation and free speech. They claim internet platforms provide to private citizens the most powerful mechansim for making their voice heard. Many movements today use social media platforms hosted on the internet to coordinate and make their voices heard. They claim that without net neturality, these platforms could fail because the platforms depend upon the inability for companies or governments to lawfully censor their messages.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+They believe that while you may need to pay to gain access to the internet, the internet provider should not get to shape what you access on the internet, or who has access to you on the internet. The users could make their own choices about what services they wish to use, without government influence.
 
-### Markdown
+Proponents believe that without net neutrality, free speech is in danger. Without net neutrality, companies could block access to content posing a threat to their interests, whether financial or political.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Opponents
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WEvanson/AP-Government-Site/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Opponents suggest net neutrality is unneccessay because the internet did 
