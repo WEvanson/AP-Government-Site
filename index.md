@@ -4,7 +4,9 @@ Net neutrality is the concept that internet service providers (ISPs) should prov
 
 ## History
 
-The first form of the internet was developed to allow the government to share information. Many different networks were around, but most did not share a common way to communicate with each other. January 1, 1983 is commonly considered the birthday of the internet, as on that day, a new communications protocol, known as Transfer Control Protocal/Internetwork Protocol (TCP/IP), was implemented by various government controlled networks. It would take twenty years before the term "net neutrality" was coined, and another two before rules were implemented prohibiting providers from blocking legal content or preventing certain devices from connecting to their network.
+The first form of the internet was developed to allow the government to share information. Many different networks were around, but most did not share a common way to communicate with each other. January 1, 1983 is commonly considered the birthday of the internet, as on that day, a new communications protocol, known as Transfer Control Protocal/Internetwork Protocol (TCP/IP), was implemented by various government controlled networks. It would take twenty years before the term "net neutrality" was coined, and another two before rules were implemented by the FCC prohibiting providers from blocking legal content or preventing certain devices from connecting to their network.
+
+In 2008, just three years later, a federal court found that the FCC failed to provide legal reasons supporting that it had the authority to enforce those rules. Thus began a period of government agencies regulating the internet, and having courts find that they did not have legal reasons to enforce those rules. After that defeat, the FCC passed a more detailed net neutrality order. However, the same federal court found that the FCC did not have legal reasons to enfore those rules on services not considered comon carriers. 
 
 ## Proponents
 
