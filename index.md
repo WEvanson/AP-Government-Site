@@ -17,3 +17,5 @@ Finally, net neutrality promotes competition by providing an equal field for new
 Opponents suggest net neutrality is unnecessay because the internet developed mostly without it, it creates burdensome regulation to govern the internet, and it reduces investment in internet services.
 
 Many large internet-based companies were started and became successful without net neutrality regulations. For example, Google was founded in 1998, and it became one of the largest companies in the world. Many of those companies are beneficial to America. As a result, opponents argue that net neutrality is unneeded because many positive outcomes came from the period before net neutrality.
+
+In 2017, the FCC claimed that net neutrality rules imposed significant and "unnecessary" reporting burdens on ISPs to prove compliance. For example, CenturyLink appraised the extra cost of net neutrality rules was about 5,000 hours of paperwork, which cost about $134,000 each year. The CTIA Wireless Foundation claims that the FCC fails to distinguish between large and small companies providing broadband, thus failing to reduce burdens on the smaller companies.
