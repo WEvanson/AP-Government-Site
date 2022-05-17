@@ -2,6 +2,10 @@
 
 Net neutrality is the concept that internet service providers (ISPs) should provide access to all content on the internet regardless of the source without favoring or blocking particular sources, products, or websites.
 
+## History
+
+The first form of the internet was developed to allow the government to share information. Many different networks were around, but most did not share a common way to communicate with each other. January 1, 1983 is commonly considered the birthday of the internet, as on that day, a new communications protocol, known as Transfer Control Protocal/Internetwork Protocol (TCP/IP), was implemented by various government controlled networks. It would take twenty years before the term "net neutrality" was coined, and another two before rules were implemented prohibiting providers from blocking legal content or preventing certain devices from connecting to their network.
+
 ## Proponents
 
 Proponents suggest that net nuetrality is important because it preserves free speech by prohibiting ISPs from blocking content, it prevents ISPs from discrimanating against certain content, and it provides an equal playing field for new companies.
