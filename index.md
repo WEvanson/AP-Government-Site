@@ -1,4 +1,4 @@
-Net Neutrality
+# Net Neutrality
 
 Net neutrality is the concept that internet service providers (ISPs) should provide access to all content on the internet regardless of the source, without favoring or blocking particular sources, products, or websites.
 
